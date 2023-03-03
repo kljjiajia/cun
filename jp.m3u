@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml"
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合
 https://cdn-us-186.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-name="NHK Education" tvg-logo="https://i.imgur.com/H1XYhAt.png" group-title="Japan",NHKEテレ
