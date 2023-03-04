@@ -1,39 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KBS1TV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KBS 1
-http://121.131.180.41:9981/playlist/channelid/66
-#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KBS 2
-http://121.131.180.41:9981/playlist/channelid/68
-#EXTINF:-1 tvg-id="MBCTV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png", MBC
-http://121.131.180.41:9981/playlist/channelid/65
 #EXTINF:-1 tvg-id="JTBC.kr" group-title="KR" tvg-logo="https://6.vikiplatform.com/image/dd32095cfb9e46ab8358b31792e1e8f9.png?x=b&s=843x474&q=h&cb=1", JTBC
-http://121.131.180.41:9981/playlist/channelid/11
-#EXTINF:-1 tvg-id="SBSTV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
+https://cdnul194.cloudrsst.com/live/jtbc_720/playlist.m3u8
+#EXTINF:-1 tvg-id="SBS.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Mnet.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png", MNet
-http://221.162.171.207:9981/playlist/channelid/43
-#EXTINF:-1 tvg-id="tvN.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", tvN
-http://221.162.171.207:9981/playlist/channelid/101
-#EXTINF:-1 tvg-id="Aniplus.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png", Aniplus
-https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
-#EXTINF:-1 tvg-id="Animax.kr" group-title="KR" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
-https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
-#EXTINF:-1,tvg-id="JTBC2.kr" group-title="KR" tvg-logo="https://images.jtbc.co.kr/jtbc2/logo.png", JTBC2
-http://180.69.234.120:9981/stream/channelid/52
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合
+#EXTINF:-1 tvg-id="NHK.jp" tvg-name="NHK General" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合
 https://cdnul194.cloudrsst.com/live/kanto_nhk_g_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="KANSI NHK General" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合
+#EXTINF:-1 tvg-id="NHKG.jp" tvg-name="KANSI NHK General" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/nhkg.jpg" group-title="Japan",NHK総合
 https://cdnul194.cloudrsst.com/live/kansi_nhk_g_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-name="NHK Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Japan",NHKEテレ
+#EXTINF:-1 tvg-id="NHKE.jp" tvg-name="NHK Education" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="Japan",NHKEテレ
 https://cdnul194.cloudrsst.com/live/kanto_nhk_edu_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="NTV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/ntv.jpg" group-title="Japan",日テレ
 https://cdnul194.cloudrsst.com/live/kanto_nippon_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="TBS" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS
+#EXTINF:-1 tvg-id="tbs.jp" tvg-name="TBS" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tbs.jpg" group-title="Japan",TBS
 https://cdnul194.cloudrsst.com/live/kanto_tbs_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="FujiTV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",フジテレビ
+#EXTINF:-1 tvg-id="fujitv.jp" tvg-name="FujiTV" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/fujitv.jpg" group-title="Japan",フジテレビ
 https://cdnul194.cloudrsst.com/live/kanto_fuji_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-name="TV Asahi" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvasahi.jpg" group-title="Japan",テレビ朝日
 https://cdn-th136.cloudrsst.com/live/kanto_tv_asahi_1080/playlist.m3u8
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="TV Tokyo" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",テレビ東京
+#EXTINF:-1 tvg-id="tvtokyo.jp" tvg-name="TV Tokyo" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/tvtokyo.jpg" group-title="Japan",テレビ東京
 https://cdnul194.cloudrsst.com/live/kanto_tv_tokyo_1080/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-name="NHK BS1" tvg-logo="https://ghproxy.com/https://raw.githubusercontent.com/trevorleung821/jptv-logo/main/bs1.jpg" group-title="Japan",NHK BS1
 https://cdnul194.cloudrsst.com/live/nhkbs1_720/playlist.m3u8
@@ -65,3 +49,33 @@ https://cdnul194.cloudrsst.com/live/starch1_720/playlist.m3u8
 https://cdnul194.cloudrsst.com/live/starch2_720/playlist.m3u8
 #EXTINF:-1 tvg-id="Star3.jp" tvg-name="Star 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png" group-title="Japan",Star 3
 https://cdnul194.cloudrsst.com/live/starch3_720/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://113.117.74.10:8081/hls/67/index.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://107.173.180.164:2095/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png",VIUTV
+http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
+#EXTINF:-1 tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png",J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
+http://23.237.10.66:16410
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台",J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港台",ViuTV
+http://r.jdshipin.com/vSJvl
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
+http://r.jdshipin.com/62WM7
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",翡翠台
+http://r.jdshipin.com/n90gt
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港台",华丽翡翠台
+http://r.jdshipin.com/thuYX
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港台",J2
+http://r.jdshipin.com/Nr5jq
