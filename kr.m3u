@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="KBS1TV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KBS 1
+http://121.131.180.41:9981/playlist/channelid/66
+#EXTINF:-1 tvg-id="KBS2TV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KBS 2
+http://121.131.180.41:9981/playlist/channelid/68
+#EXTINF:-1 tvg-id="MBCTV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/2560px-Munhwa_Broadcasting_Company.svg.png", MBC
+http://121.131.180.41:9981/playlist/channelid/65
+#EXTINF:-1 tvg-id="JTBC.kr" group-title="KR" tvg-logo="https://6.vikiplatform.com/image/dd32095cfb9e46ab8358b31792e1e8f9.png?x=b&s=843x474&q=h&cb=1", JTBC
+http://121.131.180.41:9981/playlist/channelid/11
+#EXTINF:-1 tvg-id="SBSTV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/640px-SBS_Korea_Logo_%28Word_Only%29.svg.png", SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Mnet.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png", MNet
+http://221.162.171.207:9981/playlist/channelid/43
+#EXTINF:-1 tvg-id="tvN.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png", tvN
+http://221.162.171.207:9981/playlist/channelid/101
+#EXTINF:-1 tvg-id="Aniplus.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/800px-Aniplus_logo.svg.png", Aniplus
+https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=seezn&i=217&q=default
+#EXTINF:-1 tvg-id="Animax.kr" group-title="KR" tvg-logo="https://cdn.hqth.me/logo/198.png", Animax
+https://sjva.soa1.duckdns.org/klive/api/url.m3u8?m=url&s=wavve&i=A01&q=default
+#EXTINF:-1,tvg-id="JTBC2" group-title="KR" tvg-logo="https://images.jtbc.co.kr/jtbc2/logo.png", JTBC2
+http://180.69.234.120:9981/stream/channelid/52
