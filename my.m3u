@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="KBS1TV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/440px-KBS_1_logo.svg.png", KBS 1
 http://121.131.180.41:9981/playlist/channelid/66
 #EXTINF:-1 tvg-id="KBS2TV.kr" group-title="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/1200px-KBS_2_logo.svg.png", KBS 2
